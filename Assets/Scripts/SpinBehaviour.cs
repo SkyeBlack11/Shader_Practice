@@ -9,5 +9,6 @@ public class SpinBehaviour : MonoBehaviour
     void Update()
     {
            transform.Rotate(spinX, spinY, spinZ);
+        
     }
 }
